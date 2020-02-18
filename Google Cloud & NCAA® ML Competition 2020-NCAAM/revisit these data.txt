@@ -1,0 +1,5 @@
+MGameCities - CRType
+	- Regular / NCAA / Secondary
+
+MNCAATourneySeeds
+Cities - Create the latitude / longitude / altitude
